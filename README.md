@@ -267,22 +267,6 @@ Sau khi gom cụm, sử dụng `quality` để đánh giá kết quả của hai
 
 # Kết Quả
 
-Project tạo ra:
-
-```text
-results/
-│
-├── figures/
-│   ├── PCA visualization
-│   ├── Model comparison
-│   └── Clustering visualization
-│
-└── tables/
-    ├── Data statistics
-    ├── Classification results
-    └── Clustering results
-```
-
 Notebook hoàn chỉnh:
 
 ```text
